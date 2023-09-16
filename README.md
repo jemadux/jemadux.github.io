@@ -1,2 +1,2 @@
 # jemadux.github.io
-Website and  Debian packages 
+Website and  Debian/Devuan packages
